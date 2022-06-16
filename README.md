@@ -12,7 +12,7 @@ Node.js >= v15
 
 # Installation
 1) Type `npm install` into the command line and click `return`.
-2) To run the program, type `sort` in the command line and click `return`.
+2) To run the program, type `npm run start-sort` in the command line and click `return`.
 3) Follow the prompts in the command line.
 
 # Usage
