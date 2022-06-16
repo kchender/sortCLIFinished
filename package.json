@@ -1,0 +1,31 @@
+{
+  "name": "newdefmethodtakehome",
+  "version": "1.0.0",
+  "description": "Command line application that sorts input data three ways.",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "start-sort": "node ./main.js"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "application",
+    "sort",
+    "string",
+    "data",
+    "cli"
+  ],
+  "author": "Katrina Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kchender/sortCLIFinished/issues"
+  },
+  "homepage": "https://github.com/kchender/sortCLIFinished#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
